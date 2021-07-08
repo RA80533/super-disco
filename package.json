@@ -1,0 +1,14 @@
+{
+  "name": "super-disco",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "github:RA80533/super-disco",
+  "author": "RA80533 <32469082+RA80533@users.noreply.github.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
